@@ -37,3 +37,4 @@ git pull
 
 git checkout homepage
 
+#view page: https://nikolajwinther.github.io/webpage/
